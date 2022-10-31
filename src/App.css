@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: cadetblue;
+}
+#board-pos{
+  margin-top:18%;
+}
+.g-board{
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content: center;
+}
+.g-blk{
+  height:40px;
+  width:40px;
+  border:2px solid blueviolet;
+  background-color: black;
+  color:white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#btn{
+  margin-top: 20px;
+}
+
